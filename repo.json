@@ -1,0 +1,22 @@
+[
+    {
+        "label": "android-studio",
+        "type": "Application",
+        "terminal": "false",
+        "exec": "bin/studio.sh",
+        "name": "Android Studio",
+        "comment": "Android Studio",
+        "icon": "bin/studio.png",
+        "version": "1.0"
+    },
+    {
+        "label": "navicat",
+        "type": "Application",
+        "terminal": "false",
+        "exec": "start_navicat",
+        "name": "Navicat",
+        "comment": "Navicat",
+        "icon": "image.png",
+        "version": "1.0"
+    }
+]
